@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KernaCraft - DreamCloud Development.`,
+        copyright: `Copyright © 2023 - ${new Date().getFullYear()} KernaCraft - DEMOCRAFT STUDIO.`,
       },
       prism: {
         theme: lightCodeTheme,
